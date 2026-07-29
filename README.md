@@ -49,3 +49,15 @@ This screenshot presents the final output after successfully testing all CRUD op
 
 
 <img width="1917" height="962" alt="postman final output" src="https://github.com/user-attachments/assets/a7ffe839-3e0f-4694-8a17-9d4591c5e7e2" />
+
+
+## 8 Final API Output on workbench and table create
+
+This screenshot presents the final output after successfully testing all CRUD operations through workbench,
+
+<img width="1916" height="1077" alt="workbench" src="https://github.com/user-attachments/assets/44477d7b-6f24-4acd-9fd5-2a2916851aea" />
+
+**Browser Output**
+
+<img width="1906" height="932" alt="browser workbench" src="https://github.com/user-attachments/assets/afe9f892-f9d8-4184-82c7-72c0a826f206" />
+
